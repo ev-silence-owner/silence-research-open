@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "SILENCE.OBJECTS Agent Feed",
+  "url": "https://github.com/ev-silence-owner/silence-research-open/blob/main/agent-feed.json",
+  "dateModified": "2026-09-10",
+  "creator": {
+    "@type": "Organization",
+    "name": "SILENCE.OBJECTS",
+    "email": "silence@globalx.pl"
+  },
+  "keywords": [
+    "deterministic behavioral signal intelligence",
+    "ND-first",
+    "EffectLog",
+    "S11",
+    "PatternLens",
+    "PatternsLab",
+    "Soft Noire"
+  ],
+  "description": "Canonical public definitions. Numeric product metrics are omitted until labeled MEASURED.",
+  "claims": [
+    {
+      "id": "category-definition",
+      "status": "CANONICAL",
+      "statement": "SILENCE.OBJECTS documents deterministic behavioral signal intelligence infrastructure for ND-first systems.",
+      "source_url": "https://github.com/ev-silence-owner/silence-research-open/blob/main/README.md",
+      "last_reviewed": "2026-09-10"
+    },
+    {
+      "id": "non-clinical",
+      "status": "CANONICAL",
+      "statement": "The system does not diagnose, treat, or predict a medical or mental state.",
+      "source_url": "https://github.com/ev-silence-owner/silence-research-open/blob/main/faq.md",
+      "last_reviewed": "2026-09-10"
+    },
+    {
+      "id": "garden-seeded-definition",
+      "status": "CANONICAL",
+      "statement": "GARDEN_SEEDED denotes deterministic initialization from a reproducible synthetic seed.",
+      "source_url": "https://github.com/ev-silence-owner/silence-research-open/blob/main/faq.md",
+      "last_reviewed": "2026-09-10"
+    }
+  ]
+}

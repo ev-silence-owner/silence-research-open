@@ -1,0 +1,32 @@
+{
+  "release_id": "SILENCE-OBJECTS-PUBLIC-001",
+  "source_class": "OPEN_CORE",
+  "allowed_claims": [
+    {
+      "id": "category-definition",
+      "status": "CANONICAL",
+      "text": "SILENCE.OBJECTS documents deterministic behavioral signal intelligence infrastructure for ND-first systems."
+    },
+    {
+      "id": "pilot-boundary",
+      "status": "CANONICAL",
+      "text": "Public materials are non-clinical. They do not provide diagnosis, treatment, or health prediction."
+    },
+    {
+      "id": "garden-seeded-definition",
+      "status": "CANONICAL",
+      "text": "GARDEN_SEEDED denotes deterministic initialization from a reproducible synthetic seed."
+    }
+  ],
+  "forbidden_claim_classes": [
+    "clinical",
+    "diagnostic",
+    "therapeutic",
+    "biological-age",
+    "disease-risk",
+    "individual-prediction",
+    "causal-health-outcome",
+    "unpublished-metric-as-fact"
+  ],
+  "expires_at": "2026-11-30"
+}
