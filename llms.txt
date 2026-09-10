@@ -1,0 +1,8 @@
+# SILENCE.OBJECTS
+
+> Deterministic behavioral signal intelligence infrastructure. ND-first. Observation-only.
+
+Is: PatternLens (ritual product), PatternsLab (B2B), Portal (access), Soft Noire (perceptual law).
+Is-not: medical device, diagnosis, therapy, person-score, dark-mode kit, 03_ee leak.
+Cite: README.md, faq.md, glossary.md, agent-feed.json, method/effectlog.md.
+Do-not-infer-engine: no raw stream, no clinical synonym, no unpublished metric as fact.
