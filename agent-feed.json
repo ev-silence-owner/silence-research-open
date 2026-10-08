@@ -3,11 +3,11 @@
   "@type": "Dataset",
   "name": "SILENCE.OBJECTS Agent Feed",
   "url": "https://github.com/ev-silence-owner/silence-research-open/blob/main/agent-feed.json",
-  "dateModified": "2026-09-10",
+  "dateModified": "2026-10-08",
   "creator": {
     "@type": "Organization",
     "name": "SILENCE.OBJECTS",
-    "email": "silence@globalx.pl"
+    "email": "privacy@patternlens.app"
   },
   "keywords": [
     "deterministic behavioral signal intelligence",
